@@ -1,3 +1,0 @@
-# Registro de Dependencias - Frontend
-
-
